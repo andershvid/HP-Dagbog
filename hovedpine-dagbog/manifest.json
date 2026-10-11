@@ -1,0 +1,10 @@
+{
+  "name": "Hovedpine-dagbog",
+  "short_name": "Hovedpine",
+  "lang": "da",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f4ff",
+  "theme_color": "#7c6cf0",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
